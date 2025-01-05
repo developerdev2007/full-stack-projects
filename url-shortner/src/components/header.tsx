@@ -32,7 +32,8 @@ const Header = () => {
               </DropdownMenuTrigger>
               <DropdownMenuContent>
                 <DropdownMenuLabel>developerdev2007</DropdownMenuLabel>
-                <DropdownMenuSeparator />
+                <DropdownMenuSeparator />pnpm dlx shadcn@latest add input
+
                 <DropdownMenuItem>
                   <LinkIcon />
                   My Links
